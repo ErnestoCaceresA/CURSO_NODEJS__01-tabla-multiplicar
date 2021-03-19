@@ -1,0 +1,5 @@
+# ignorando los modulos node node PARA VOLVER A INSTALAR LOS PAQUETES DE LA DEPENDENCIA SE USA EL COMANDO | npm install |
+node_modules/
+
+# ignorando los resultados de la aplicacion
+/salida/*.txt
